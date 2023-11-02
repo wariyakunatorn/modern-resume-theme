@@ -141,20 +141,14 @@ content:
   content:
     - layout: left
       title: Mahidol University, Thailand
-      sub_title: Bachelor's Degree in Computer Science
-      caption: 2011
-      #description: |
-      #  Description of the qualification.
-
-- title: Certification
-  layout: list
-  content:
-    - layout: left
-      title: Mahidol University, Thailand
       #sub_title: Bachelor's Degree in Computer Science
       caption: 2011
       description: |
         Bachelor's Degree in Computer Science
+
+- title: Certification
+  layout: list
+  content:
     - layout: left
       title: Amazon Web Services
       #sub_title: Bachelor's Degree in Computer Science
@@ -167,10 +161,6 @@ content:
       caption: 2023
       description: |
         CKA - Certified Kubernetes Administrator
-  # content: | # this will include new lines to allow paragraphs
-  #   - B.S. in Computer Science (International Program), Mahidol University 2011
-  #   - CKA - Certified Kubernetes Administrator 2023
-  #   - AWS Certified Solutions Architect – Associate 2022
 
 - title: Technology Summary
   layout: list
