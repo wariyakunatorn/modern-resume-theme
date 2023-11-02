@@ -124,7 +124,7 @@ content:
         - Expertise in installing and configuring computer hardware, software, and systems.
         - Extensive experience in software installation and troubleshooting for CAD engineering.
 
-    - layout: right
+    - layout: left
       title: Toyota Tsusho Network Integration Thailand
       sub_title: Systems Engineer
       caption: 2011 - 2012
@@ -148,11 +148,15 @@ content:
   layout: list
   content:
     - layout: left
-      title: CKA - Certified Kubernetes Administrator
+      #title: CKA - Certified Kubernetes Administrator
       caption: 2023
+      description: |
+        CKA - Certified Kubernetes Administrator
     - layout: left
-      title: AWS Certified Solutions Architect – Associate
+      #title: AWS Certified Solutions Architect – Associate
       caption: 2022
+      description: |
+        Description of the qualification.
 
 # Footer
 footer_show_references: true
