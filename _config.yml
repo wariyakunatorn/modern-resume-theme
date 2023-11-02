@@ -145,7 +145,7 @@ content:
       #  Description of the qualification.
 
 - title: Certification
-  layout: list
+  layout: text
   content: | # this will include new lines to allow paragraphs
     - CKA - Certified Kubernetes Administrator
     - WS Certified Solutions Architect – Associate
