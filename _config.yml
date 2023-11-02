@@ -98,7 +98,7 @@ content:
       title: SES Satellites Bangkok, Thailand
       sub_title: Infrastructure Engineer
       caption: 2016-2020
-      description:
+      description: |
         - Led design, implementation, configuration, and maintenance of system solutions worldwide.
         - Managed infrastructure for 50+ locations worldwide, staying up-to-date with the latest technologies.
         - Led and managed multiple projects, ensuring execution on time and within budget.
@@ -161,36 +161,6 @@ content:
       caption: 2023
       description: |
         CKA - Certified Kubernetes Administrator
-
-- title: Technology Summary
-  layout: list
-  content:
-    - layout: left
-      title: Applications, Network & Systems
-      description: |
-        - IBM Server X Series, Dell, HP etc.
-        - Virtualization (VMware, Hyper-V and Unix-based KVM)
-        - Apache, Tomcat, Nginx Web Servers
-        - Containers (Docker, Kubernetes, LXC and LXD)
-        - Windows / Linux
-        - Load balancing (nginx, Haproxy etc.)
-        - Monitoring system (Nagios, PRTG, Grafana, Prometheus etc.)
-        - CI/CD (Jenkins, Helm charts and ArgoCD)
-        - Microsoft Systems Center Management (SCCM)
-        - Ansible automation
-        - Enterprise Mobility Management (AirWatch, Symantec MDM)
-        - Amazon Web Services
-        - CEPH distributed storage
-        - Openstack on-premises cloud solution
-        - Cisco, HP, and Aruba network switches
-        - Juniper and Palo Alto network security system
-
-    - layout: left
-      title: Broadcasting
-      description: |
-        - SDI, ASI, and IP transmission in broadcasting standards
-        - H.264, MPEG2, ATSC and DVB-S S2, T transmission
-        - OTT services (CDN, RTMP, HLS delivery)
 
 # Footer
 footer_show_references: true
