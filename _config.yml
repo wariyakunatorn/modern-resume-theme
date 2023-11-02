@@ -83,7 +83,7 @@ content:
 - title: Experience
   layout: list
   content:
-    - layout: right
+    - layout: left
       title: Allianz Technology Thailand
       sub_title: Principal DevOps Engineer
       caption: 2021 - Present
@@ -94,7 +94,7 @@ content:
         - Managed recruitment, onboarding, and training of DevOps engineers.
         - Fostered a culture of innovation, continuous improvement, and collaboration.
 
-    - layout: right
+    - layout: left
       title: SES Satellites
       sub_title: Infrastructure Engineer
       caption: 2016 - 2020
@@ -105,7 +105,7 @@ content:
         - Accountable for design, monitoring, and management of signal distribution components.
         - Experienced in live video streaming, transcoding, and playback.
 
-    - layout: right
+    - layout: left
       title: Allianz Technology Thailand
       sub_title: Senior Infrastructure Engineer
       caption: 2014 - 2015
@@ -115,7 +115,7 @@ content:
         - Managed highly available infrastructure, including Windows Servers, VMware, and more.
         - Facilitated cross-team collaboration.
 
-    - layout: right
+    - layout: left
       title: Toyota Technical Center Australia
       sub_title: Systems Engineer
       caption: 2013
@@ -137,23 +137,23 @@ content:
 - title: Education
   layout: list
   content:
-    - layout: top-right
+    - layout: left
       title: Mahidol University, Thailand
       sub_title: Bachelor's Degree in Computer Science
       caption: 2011
-      description: |
-        Description of the qualification.
+      #description: |
+      #  Description of the qualification.
 
 - title: Certification
   layout: list
   content:
-    - layout: top-right
-      title: Year
-      caption: 
-        - 2023
-          - CKA - Certified Kubernetes Administrator
-        - 2022
-          - AWS Certified Solutions Architect – Associate
+    - layout: left
+      title: CKA - Certified Kubernetes Administrator
+      caption: 2023
+    - layout: left
+      title: AWS Certified Solutions Architect – Associate
+      caption: 2022
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
