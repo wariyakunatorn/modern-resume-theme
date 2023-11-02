@@ -84,7 +84,7 @@ content:
   layout: list
   content:
     - layout: left
-      title: Allianz Technology Bangkok, Thailand
+      title: Allianz Technology Thailand
       sub_title: Principal DevOps Engineer
       caption: 2021-Present
       description: |
@@ -95,7 +95,7 @@ content:
         - Fostered a culture of innovation, continuous improvement, and collaboration.
 
     - layout: left
-      title: SES Satellites Bangkok, Thailand
+      title: SES Satellites
       sub_title: Infrastructure Engineer
       caption: 2016-2020
       description: |
@@ -106,7 +106,7 @@ content:
         - Experience in live video streaming, transcoding, and playback.
 
     - layout: left
-      title: Allianz Technology Bangkok, Thailand
+      title: Allianz Technology Thailand
       sub_title: Senior Infrastructure Engineer
       caption: 2014-2015
       description: |
@@ -117,7 +117,7 @@ content:
         - Provided guidance and mentoring to less experienced staff members.
 
     - layout: left
-      title: Toyota Technical Center Australia, Victoria, Australia
+      title: Toyota Technical Center Australia
       sub_title: Systems Engineer
       caption: 2013
       description: |
@@ -127,7 +127,7 @@ content:
         - Extensive experience in the installation, configuration, and troubleshooting of specific software for CAD engineering.
 
     - layout: left
-      title: Toyota Tsusho Network Integration, Bangkok, Thailand
+      title: Toyota Tsusho Network Integration Thailand
       sub_title: Systems Engineer
       caption: 2011-2012
       description: |
