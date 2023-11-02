@@ -87,7 +87,7 @@ content:
       title: Allianz Technology Bangkok, Thailand
       sub_title: DevOps Architect
       caption: 2021-Present
-      description:
+      description: |
         - Led a DevOps engineering team, providing technical guidance and leadership for successful product delivery.
         - Collaborated closely with 50+ internal stakeholders, improving product delivery processes.
         - Proficient in cloud computing, automation, infrastructure as code, CI/CD, microservices, security, monitoring, logging, and containerization.
@@ -109,7 +109,7 @@ content:
       title: Allianz Technology Bangkok, Thailand
       sub_title: Senior Infrastructure Engineer
       caption: 2014-2015
-      description:
+      description: |
         - Maintained system security and supported day-to-day server operations.
         - Proactively monitored system performance and provided guidance to less experienced staff.
         - Managed highly available infrastructure, including Windows Servers, VMware, IIS, web application servers, storage, backup, data center, security, and systems.
@@ -120,7 +120,7 @@ content:
       title: Toyota Technical Center Australia, Victoria, Australia
       sub_title: Systems Engineer
       caption: 2013
-      description:
+      description: |
         - Installed and maintained a wide range of IT equipment.
         - Expertise in installing and configuring computer hardware, software, systems, networks, printers, and scanners.
         - Planned and undertook scheduled maintenance upgrades.
@@ -130,7 +130,7 @@ content:
       title: Toyota Tsusho Network Integration co., Ltd, Bangkok, Thailand
       sub_title: Systems Engineer
       caption: 2011-2012
-      description:
+      description: |
         - Specialized in overseeing and coordinating projects from inception to completion.
         - Managed project timelines and addressed issues during implementation.
         - Troubleshooted and resolved complex technical problems.
@@ -147,17 +147,37 @@ content:
       #  Description of the qualification.
 
 - title: Certification
-  layout: text
-  content: | # this will include new lines to allow paragraphs
-    - CKA - Certified Kubernetes Administrator
-    - AWS Certified Solutions Architect – Associate
+  layout: list
+  content:
+    - layout: left
+      title: Mahidol University, Thailand
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2011
+      description: |
+        Bachelor's Degree in Computer Science
+    - layout: left
+      title: Amazon Web Services
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2022
+      description: |
+        AWS Certified Solutions Architect – Associate
+    - layout: left
+      title: Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2023
+      description: |
+        CKA - Certified Kubernetes Administrator
+  # content: | # this will include new lines to allow paragraphs
+  #   - B.S. in Computer Science (International Program), Mahidol University 2011
+  #   - CKA - Certified Kubernetes Administrator 2023
+  #   - AWS Certified Solutions Architect – Associate 2022
 
 - title: Technology Summary
   layout: list
   content:
-    - layout: top-left
+    - layout: left
       title: Applications, Network & Systems
-      description:
+      description: |
         - IBM Server X Series, Dell, HP etc.
         - Virtualization (VMware, Hyper-V and Unix-based KVM)
         - Apache, Tomcat, Nginx Web Servers
@@ -175,9 +195,9 @@ content:
         - Cisco, HP, and Aruba network switches
         - Juniper and Palo Alto network security system
 
-    - layout: top-right
+    - layout: left
       title: Broadcasting
-      description:
+      description: |
         - SDI, ASI, and IP transmission in broadcasting standards
         - H.264, MPEG2, ATSC and DVB-S S2, T transmission
         - OTT services (CDN, RTMP, HLS delivery)
