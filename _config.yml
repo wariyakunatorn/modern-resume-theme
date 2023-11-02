@@ -84,52 +84,54 @@ content:
   layout: list
   content:
     - layout: left
-      title: Allianz Technology Thailand
-      sub_title: Principal DevOps Engineer
-      caption: 2021 - Present
-      description: |
+      title: Allianz Technology Bangkok, Thailand
+      sub_title: DevOps Architect
+      caption: 2021-Present
+      description:
         - Led a DevOps engineering team, providing technical guidance and leadership for successful product delivery.
-        - Collaborated with 50+ internal stakeholders, improving product delivery processes.
-        - Proficient in cloud computing, automation, CI/CD, microservices, security, and more.
-        - Managed recruitment, onboarding, and training of DevOps engineers.
+        - Collaborated closely with 50+ internal stakeholders, improving product delivery processes.
+        - Proficient in cloud computing, automation, infrastructure as code, CI/CD, microservices, security, monitoring, logging, and containerization.
+        - Supported recruitment, onboarding, and training of DevOps engineers.
         - Fostered a culture of innovation, continuous improvement, and collaboration.
 
     - layout: left
-      title: SES Satellites
+      title: SES Satellites Bangkok, Thailand
       sub_title: Infrastructure Engineer
-      caption: 2016 - 2020
-      description: |
-        - Led design, implementation, and maintenance of global system solutions.
-        - Managed infrastructure for 50+ locations worldwide.
-        - Led and managed multiple projects, ensuring on-time and within-budget execution.
-        - Accountable for design, monitoring, and management of signal distribution components.
-        - Experienced in live video streaming, transcoding, and playback.
+      caption: 2016-2020
+      description:
+        - Led design, implementation, configuration, and maintenance of system solutions worldwide.
+        - Managed infrastructure for 50+ locations worldwide, staying up-to-date with the latest technologies.
+        - Led and managed multiple projects, ensuring execution on time and within budget.
+        - Accountable for the design, monitoring, and management of signal distribution components.
+        - Experience in live video streaming, transcoding, and playback.
 
     - layout: left
-      title: Allianz Technology Thailand
+      title: Allianz Technology Bangkok, Thailand
       sub_title: Senior Infrastructure Engineer
-      caption: 2014 - 2015
-      description: |
+      caption: 2014-2015
+      description:
         - Maintained system security and supported day-to-day server operations.
         - Proactively monitored system performance and provided guidance to less experienced staff.
-        - Managed highly available infrastructure, including Windows Servers, VMware, and more.
+        - Managed highly available infrastructure, including Windows Servers, VMware, IIS, web application servers, storage, backup, data center, security, and systems.
         - Facilitated cross-team collaboration.
+        - Provided guidance and mentoring to less experienced staff members.
 
     - layout: left
-      title: Toyota Technical Center Australia
+      title: Toyota Technical Center Australia, Victoria, Australia
       sub_title: Systems Engineer
       caption: 2013
-      description: |
+      description:
         - Installed and maintained a wide range of IT equipment.
-        - Expertise in installing and configuring computer hardware, software, and systems.
-        - Extensive experience in software installation and troubleshooting for CAD engineering.
+        - Expertise in installing and configuring computer hardware, software, systems, networks, printers, and scanners.
+        - Planned and undertook scheduled maintenance upgrades.
+        - Extensive experience in the installation, configuration, and troubleshooting of specific software for CAD engineering.
 
     - layout: left
-      title: Toyota Tsusho Network Integration Thailand
+      title: Toyota Tsusho Network Integration co., Ltd, Bangkok, Thailand
       sub_title: Systems Engineer
-      caption: 2011 - 2012
-      description: |
-        - Oversaw and coordinated projects from inception to completion.
+      caption: 2011-2012
+      description:
+        - Specialized in overseeing and coordinating projects from inception to completion.
         - Managed project timelines and addressed issues during implementation.
         - Troubleshooted and resolved complex technical problems.
         - Expertise in system engineering for successful project implementations.
@@ -148,7 +150,37 @@ content:
   layout: text
   content: | # this will include new lines to allow paragraphs
     - CKA - Certified Kubernetes Administrator
-    - WS Certified Solutions Architect – Associate
+    - AWS Certified Solutions Architect – Associate
+
+- title: Technology Summary
+  layout: list
+  content:
+    - layout: top-left
+      title: Applications, Network & Systems
+      description:
+        - IBM Server X Series, Dell, HP etc.
+        - Virtualization (VMware, Hyper-V and Unix-based KVM)
+        - Apache, Tomcat, Nginx Web Servers
+        - Containers (Docker, Kubernetes, LXC and LXD)
+        - Windows / Linux
+        - Load balancing (nginx, Haproxy etc.)
+        - Monitoring system (Nagios, PRTG, Grafana, Prometheus etc.)
+        - CI/CD (Jenkins, Helm charts and ArgoCD)
+        - Microsoft Systems Center Management (SCCM)
+        - Ansible automation
+        - Enterprise Mobility Management (AirWatch, Symantec MDM)
+        - Amazon Web Services
+        - CEPH distributed storage
+        - Openstack on-premises cloud solution
+        - Cisco, HP, and Aruba network switches
+        - Juniper and Palo Alto network security system
+
+    - layout: top-right
+      title: Broadcasting
+      description:
+        - SDI, ASI, and IP transmission in broadcasting standards
+        - H.264, MPEG2, ATSC and DVB-S S2, T transmission
+        - OTT services (CDN, RTMP, HLS delivery)
 
 # Footer
 footer_show_references: true
