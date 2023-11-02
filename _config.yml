@@ -146,17 +146,9 @@ content:
 
 - title: Certification
   layout: list
-  content:
-    - layout: left
-      #title: CKA - Certified Kubernetes Administrator
-      caption: 2023
-      description: |
-        CKA - Certified Kubernetes Administrator
-    - layout: left
-      #title: AWS Certified Solutions Architect – Associate
-      caption: 2022
-      description: |
-        Description of the qualification.
+  content: | # this will include new lines to allow paragraphs
+    - CKA - Certified Kubernetes Administrator
+    - WS Certified Solutions Architect – Associate
 
 # Footer
 footer_show_references: true
