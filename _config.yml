@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Woravit Ariyakunatorn
-title: DevOps Engineer
+title: DevOps and Cloud (aka Master of Chaos)
 email: golf@wariyakunatorn.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
   - With over a decade in IT, I'm currently immersed in the fascinating world of DevOps.
   - I thrive in the Agile methodology, fostering collaboration between development and operations teams.
   - My expertise covers a range of DevOps aspects, from automation to continuous integration, delivery, and infrastructure as code.
-  - Beyond the tech scene, I enjoy fishing, outdoor activities, and staying abreast of the latest trends and best practices
+  - Beyond the tech scene, I enjoy fishing, outdoor activities, and staying on the latest trends and best practices
 
 content:
   # - title: Projects # Title for the section
