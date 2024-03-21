@@ -161,6 +161,12 @@ content:
       caption: 2023
       description: |
         CKA - Certified Kubernetes Administrator
+    - layout: left
+      title: Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2024
+      description: |
+        CKAD - Certified Kubernetes Application Developer
 
 # Footer
 footer_show_references: true
