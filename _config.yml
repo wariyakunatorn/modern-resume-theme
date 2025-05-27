@@ -169,13 +169,13 @@ content:
       description: |
         AWS Certified Solutions Architect – Associate
     - layout: left
-      title: Linux Foundation
+      title: The Linux Foundation
       #sub_title: Bachelor's Degree in Computer Science
       caption: 2023
       description: |
         CKA - Certified Kubernetes Administrator
     - layout: left
-      title: Linux Foundation
+      title: The Linux Foundation
       #sub_title: Bachelor's Degree in Computer Science
       caption: 2024
       description: |
@@ -186,6 +186,30 @@ content:
       caption: 2024
       description: |
         AWS Certified Solutions Architect – Professional
+    - layout: left
+      title: The Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2025
+      description: |
+        KCNA - Kubernetes and Cloud Native Associate
+    - layout: left
+      title: The Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2025
+      description: |
+        KCSA - Kubernetes and Cloud Native Security Associate
+    - layout: left
+      title: The Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2025
+      description: |
+        CKS - Certified Kubernetes Security Specialist
+    - layout: left
+      title: The Linux Foundation
+      #sub_title: Bachelor's Degree in Computer Science
+      caption: 2025
+      description: |
+        Kubestronaut
 
 # Footer
 footer_show_references: true
