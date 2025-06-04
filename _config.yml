@@ -167,19 +167,19 @@ content:
       #sub_title: Bachelor's Degree in Computer Science
       caption: Amazon Web Services
       description: |
-        AWS Certified Solutions Architect – Associate
-        AWS Certified Solutions Architect – Professional
+        - AWS Certified Solutions Architect – Associate
+        - AWS Certified Solutions Architect – Professional
 
     - layout: left
       title: Kubernetes (Kubestronaut)
       #sub_title: Bachelor's Degree in Computer Science
       caption: Cloud Native Computing Foundation
       description: |
-        KCNA - Kubernetes and Cloud Native Associate
-        KCSA - Kubernetes and Cloud Native Security Associate
-        CKAD - Certified Kubernetes Application Developer
-        CKA - Certified Kubernetes Administrator
-        CKS - Certified Kubernetes Security Specialist
+        - KCNA - Kubernetes and Cloud Native Associate
+        - KCSA - Kubernetes and Cloud Native Security Associate
+        - CKAD - Certified Kubernetes Application Developer
+        - CKA - Certified Kubernetes Administrator
+        - CKS - Certified Kubernetes Security Specialist
 
 # Footer
 footer_show_references: true
