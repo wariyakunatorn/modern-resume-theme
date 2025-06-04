@@ -163,53 +163,23 @@ content:
   layout: list
   content:
     - layout: left
-      title: Amazon Web Services
+      title: Cloud Technology
       #sub_title: Bachelor's Degree in Computer Science
-      caption: 2022
+      caption: Amazon Web Services
       description: |
         AWS Certified Solutions Architect – Associate
-    - layout: left
-      title: The Linux Foundation
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2023
-      description: |
-        CKA - Certified Kubernetes Administrator
-    - layout: left
-      title: The Linux Foundation
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2024
-      description: |
-        CKAD - Certified Kubernetes Application Developer
-    - layout: left
-      title: Amazon Web Services
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2024
-      description: |
         AWS Certified Solutions Architect – Professional
+
     - layout: left
       title: The Linux Foundation
       #sub_title: Bachelor's Degree in Computer Science
-      caption: 2025
+      caption: 2024
       description: |
         KCNA - Kubernetes and Cloud Native Associate
-    - layout: left
-      title: The Linux Foundation
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2025
-      description: |
         KCSA - Kubernetes and Cloud Native Security Associate
-    - layout: left
-      title: The Linux Foundation
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2025
-      description: |
+        CKAD - Certified Kubernetes Application Developer
+        CKA - Certified Kubernetes Administrator
         CKS - Certified Kubernetes Security Specialist
-    - layout: left
-      title: The Linux Foundation
-      #sub_title: Bachelor's Degree in Computer Science
-      caption: 2025
-      description: |
-        Kubestronaut
 
 # Footer
 footer_show_references: true
