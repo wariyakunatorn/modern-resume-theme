@@ -171,9 +171,9 @@ content:
         AWS Certified Solutions Architect – Professional
 
     - layout: left
-      title: The Linux Foundation
+      title: Kubernetes (Kubestronaut)
       #sub_title: Bachelor's Degree in Computer Science
-      caption: 2024
+      caption: Cloud Native Computing Foundation
       description: |
         KCNA - Kubernetes and Cloud Native Associate
         KCSA - Kubernetes and Cloud Native Security Associate
